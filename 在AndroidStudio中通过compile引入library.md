@@ -16,7 +16,8 @@ compile 'com.github.xx753940262:aes_rsa:1.0.1' 引入一个library
 ![image](https://github.com/xx753940262/notes/raw/master/images/new_releases.png)
 - 7、填写上以下信息，保存发布即可。
 ![image](https://github.com/xx753940262/notes/raw/master/images/create_releases.png)
-- 8、打开网址https://jitpack.io，在输入框中输入你的项目的github地址，点击LookUp，然后就可看到你创建项目，点击Getit，就可以获取使用该项目library的使用方法。
+- 8、打开网址https://jitpack.io
+- 在输入框中输入你的项目的github地址，点击LookUp，然后就可看到你创建项目，点击Getit，就可以获取使用该项目library的使用方法。
 ![image](https://github.com/xx753940262/notes/raw/master/images/jitpack.png)
 ![image](https://github.com/xx753940262/notes/raw/master/images/howtouse.png)
 
